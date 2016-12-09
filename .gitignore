@@ -1,2 +1,7 @@
 .DS_Store
 .DS_Store?
+*
+!DDB_EpiDoc_XML/p.heid/**
+!DDB_EpiDoc_XML/p.bingen/**
+!DDB_EpiDoc_XML/o.heid/**
+!DDB_EpiDoc_XML/sb/**
